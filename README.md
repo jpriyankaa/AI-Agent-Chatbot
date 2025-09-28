@@ -17,3 +17,4 @@ Groq LLaMA 3
 Pinecone Vector DB
 HuggingFace Sentence Transformers (MiniLM)
 Tavily Search API
+<img width="1158" height="385" alt="image" src="https://github.com/user-attachments/assets/79401890-86f5-41dc-8a63-c2613718af13" />
